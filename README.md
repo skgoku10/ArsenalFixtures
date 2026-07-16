@@ -6,6 +6,24 @@ goal scorers — no Dock icon, lives entirely in the menu bar.
 Built with SwiftUI's `MenuBarExtra` (macOS 13+) as a Swift Package, using the
 [football-data.org](https://www.football-data.org/) v4 API.
 
+## Preview
+
+> These are renders of the actual app UI using sample data, captured before
+> football-data.org had published the upcoming season's fixtures. Not
+> screenshots of live results — just here to show what the real thing looks
+> like once fixtures are available.
+
+<table>
+<tr>
+<td><img src="Screenshots/upcoming-fixtures.png" width="320" alt="Upcoming fixtures list"></td>
+<td><img src="Screenshots/live-match.png" width="320" alt="Live match with goal scorers"></td>
+</tr>
+<tr>
+<td align="center">Upcoming fixtures</td>
+<td align="center">Live match with goal scorers</td>
+</tr>
+</table>
+
 ## Features
 
 - Upcoming fixtures (competitions covered by your plan — see below)
